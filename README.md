@@ -3,53 +3,53 @@ Tensor to Advanced Deep learning model with Pytorch
 
 
 .
-├── 01_Basic_Matrix_Operations/ 
-│   ├── matrix_operations.py
-│   ├── matrix_visualization.py
-│   └── README.md
+├── 01_Basic_Matrix_Operations/    
+│   ├── matrix_operations.py    
+│   ├── matrix_visualization.py   
+│   └── README.   
+│   
+├── 02_Image_Processing_Basics/   
+│   ├── image_loading.py   
+│   ├── image_transformations.py   
+│   └── README.md   
+│   
+├── 03_CNNs/   
+│   ├── simple_cnn.py   
+│   ├── cnn_training.py   
+│   ├── feature_visualization.py   
+│   └── README.md   
 │
-├── 02_Image_Processing_Basics/
-│   ├── image_loading.py
-│   ├── image_transformations.py
-│   └── README.md
+├── 04_Advanced_CNNs/   
+│   ├── vgg.py   
+│   ├── resnet.py   
+│   ├── transfer_learning.py   
+│   └── README.md   
+│   
+├── 05_Object_Detection_Segmentation/   
+│   ├── yolo.py   
+│   ├── unet.py   
+│   └── README.md   
+│   
+├── 06_Generative_Models/   
+│   ├── gan.py   
+│   ├── vae.py   
+│   └── README.md   
 │
-├── 03_CNNs/
-│   ├── simple_cnn.py
-│   ├── cnn_training.py
-│   ├── feature_visualization.py
-│   └── README.md
-│
-├── 04_Advanced_CNNs/
-│   ├── vgg.py
-│   ├── resnet.py
-│   ├── transfer_learning.py
-│   └── README.md
-│
-├── 05_Object_Detection_Segmentation/
-│   ├── yolo.py
-│   ├── unet.py
-│   └── README.md
-│
-├── 06_Generative_Models/
-│   ├── gan.py
-│   ├── vae.py
-│   └── README.md
-│
-├── 07_Model_Interpretability/
-│   ├── grad_cam.py
-│   ├── lime.py
-│   └── README.md
-│
-├── 08_Advanced_Techniques/
-│   ├── attention.py
-│   ├── vision_transformer.py
-│   └── README.md
-│
-├── 09_Experimentation_Visualization/
-│   ├── tensorboard_visualization.py
-│   ├── interactive_visualization.py
-│   └── README.md
-│
+├── 07_Model_Interpretability/   
+│   ├── grad_cam.py   
+│   ├── lime.py   
+│   └── README.md   
+│   
+├── 08_Advanced_Techniques/   
+│   ├── attention.py   
+│   ├── vision_transformer.py      
+│   └── README.md      
+│      
+├── 09_Experimentation_Visualization/   
+│   ├── tensorboard_visualization.py   
+│   ├── interactive_visualization.py   
+│   └── README.md   
+│   
 └── README.md
 
 Matrix multiplication and visualizations.
